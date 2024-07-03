@@ -11,7 +11,7 @@ webImport("init")
 webImport("ui/main")
 ```
 
-# Hydroxide
+# Hyd A Fork-Remake Of The OG Hydroxide By Upbolt
 <i>Lua runtime introspection and network capturing tool for games on the Roblox engine.</i>
 
 <p align="center">
@@ -41,8 +41,6 @@ webImport("ui/main")
 * ClosureSpy
     * Log calls of closures
     * View general information of closures (location, protos, constants, etc.)
-
-More to come, soon.
 
 ## Images/Videos
 <p align="center">
